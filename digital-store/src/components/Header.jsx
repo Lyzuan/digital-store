@@ -21,10 +21,10 @@ const Header = () => {
                 </div>
             </section>
             <section className="flex gap-5 pt-6 pl-4">
-                <NavLink className={"text-gray-900 hover:text-pink-500 no-underline"} to={"/"}>Home</NavLink>
-                <NavLink className={"text-gray-900 hover:text-pink-500 no-underline"} to={"/produtos"}>Produtos</NavLink>
-                <NavLink className={"text-gray-900 hover:text-pink-500 no-underline"} to={"/categorias"}>Categorias</NavLink>
-                <NavLink className={"text-gray-900 hover:text-pink-500 no-underline"} to={"/meus pedidos"}>Meus Pedidos</NavLink>
+                <NavLink className={"text-gray-900 hover:text-pink-500 no-underline hover:underline"} to={"/"}>Home</NavLink>
+                <NavLink className={"text-gray-900 hover:text-pink-500 no-underline hover:underline"} to={"/produtos"}>Produtos</NavLink>
+                <NavLink className={"text-gray-900 hover:text-pink-500 no-underline hover:underline"} to={"/categorias"}>Categorias</NavLink>
+                <NavLink className={"text-gray-900 hover:text-pink-500 no-underline hover:underline"} to={"/meus pedidos"}>Meus Pedidos</NavLink>
             </section>
         </header>
     )
