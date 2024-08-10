@@ -4,6 +4,7 @@ import Collection2 from '../public/collection-2.png';
 import Collection3 from '../public/collection-3.png';
 import { Button } from 'primereact/button';
 import ProductDestaque from './ProductDestaque';
+import ProductListing from './ProductListing';
 
 const ProductDetails = () => {
     return (
@@ -43,6 +44,7 @@ const ProductDetails = () => {
             <div>
                 <ProductDestaque />
             </div>
+
         </div>
     );
 }
