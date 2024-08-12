@@ -44,7 +44,7 @@ const Gallery = () => {
                                     <img
                                         src={item.image}
                                         alt="Slider"
-                                        className='w-full'
+                                        className='w-full tenis1'
                                     />
                                 </div>
                                 <div className='flex'>

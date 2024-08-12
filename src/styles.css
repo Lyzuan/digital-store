@@ -214,3 +214,20 @@
     font-weight: bold;
   }
   
+  .ellipse {
+    width: 466px;
+    height: 466px;
+    left: 15%;
+    
+  }
+
+  .tenis3 {
+    width: 573px;
+    height: 330px;
+    
+  }
+  
+  .tenis1 {
+    transform:rotate(-30deg);
+    
+  }

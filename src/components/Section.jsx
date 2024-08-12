@@ -2,6 +2,7 @@
 import Gallery from './Gallery';
 import ProductDetails from './ProductDetails';
 import ProductListing from './ProductListing';
+import ProdctSale from './ProductSale';
 
 
 const Section = () => {
@@ -10,6 +11,7 @@ const Section = () => {
             <Gallery />
             <ProductDetails />
             <ProductListing />
+            <ProdctSale />
         </div>
 
     );
