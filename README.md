@@ -28,9 +28,9 @@ $ npm run dev
 
 ```
 
-## Licença
+Licença
 
-Este projeto está licenciado sob a MIT License.
+## Este projeto está licenciado sob a MIT License.
 
-```
+
 
