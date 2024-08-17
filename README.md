@@ -1,4 +1,5 @@
-Seja bem vindo ao projeto digital store! Projeto front-end desenvolvido com participação no curso geração tech.
+Digital Store
+Bem-vindo ao projeto Digital Store! Este projeto front-end foi desenvolvido como parte do curso Geração Tech. Ele visa criar uma aplicação moderna e funcional para a gestão de uma loja digital.
 ## Como executar o projeto:
 
 1. Clone do repositório :
@@ -26,3 +27,10 @@ $ npm install
 $ npm run dev
 
 ```
+
+## Licença
+
+Este projeto está licenciado sob a MIT License.
+
+```
+
